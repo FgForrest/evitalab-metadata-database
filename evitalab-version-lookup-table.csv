@@ -1,5 +1,6 @@
-evitadb-version,evitalab-versions
+evitalab-version;min-evitadb-version,
 v2024.1.0,v2024.1.0
-v2024.3.0,v2024.2.0
-v2024.10.0,v2024.4.2
-v2025.1.0,"v2025.1.0,v2025.1.1"
+v2024.2.0,v2024.3.0
+v2024.4.2,v2024.10.0
+v2025.1.0,v2025.1.0
+v2025.1.1,v2025.1.0

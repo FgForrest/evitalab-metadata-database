@@ -4,7 +4,7 @@ This repo acts as public database for different kinds of metadata that are not c
 
 ## Contents
 
-### evitaLab version lookup table
+### evitaLab database
 
 [`evitalab-database.csv`](evitalab-database.csv)
 

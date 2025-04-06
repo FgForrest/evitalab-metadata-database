@@ -6,7 +6,7 @@ This repo acts as public database for different kinds of metadata that are not c
 
 ### evitaLab version lookup table
 
-[`evitalab-version-lookup-table.csv`](evitalab-version-lookup-table.csv)
+[`evitalab-database.csv`](evitalab-database.csv)
 
 A lookup table used primarily by the [evitaDB Desktop](https://github.com/lukashornych/evitalab-desktop) application to find appropriate evitaLab driver version
 for an evitaDB server the application is connecting to.
